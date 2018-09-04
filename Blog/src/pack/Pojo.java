@@ -9,7 +9,7 @@ package pack;
 	public Pojo()
 	{
 		this.driver="com.mysql.jdbc.Driver";
-		this.url="jdbc:mysql://localhost:3306/blogging";
+		url="jdbc:mysql://localhost:3306/blogging";
 		this.userName="root";
 		this.password="";
 	}
